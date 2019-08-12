@@ -3,7 +3,7 @@ import re, sys
 s = Session()
 
 try:
-	print("SMS Gratis by Xractz - IndoSec\nGunakan kode negara (ex: 62xxxxx29)")
+	print("BODO AMAT EMANG GW PIKIRIN ? WKWKWKWK \nAWALI DENGAN 62 AKHIRI DENGAN 29 \nGunakan kode negara (ex: 62xxxxx29)")
 	no = int(input(" Masukan Nomer Target    : "))
 	msg = input("Pesan : ")
 except:
