@@ -4,7 +4,6 @@ s = Session()
 
 try:
 	print("SMS Gratis by Xractz - IndoSec\nGunakan kode negara (ex: 62xxxxx29)")
-  print("CONTOH 6212345678929")
 	no = int(input(" Masukan Nomer Target    : "))
 	msg = input("Pesan : ")
 except:
